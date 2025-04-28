@@ -15,7 +15,7 @@ A simple yet powerful password generator built using ReactJS and styled with Tai
 
 ## Demo
 
-You can check out a live demo [https://r-swift.netlify.app](https://r-swift.netlify.app) *(if applicable)*.
+You can check out a live demo [https://rpg-r.netlify.app](https://rpg-r.netlify.app) .
 
 ## Installation
 
